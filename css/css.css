@@ -1,0 +1,37 @@
+body input{
+		margin:0;
+		padding:0;
+		border:none;
+		outline:none;
+	}
+body{
+	text-align:center;
+}
+.h1{
+	font-size:2em;
+	line-height:3em;
+	padding:0;
+	background-color:#3a5aff;
+	color:#fff;
+	font-weight:bolder;
+}
+.h2{
+	margin-top:10px;
+	font-size:1.3em;
+	color:#333333;
+}
+	.testImg{
+		width:800px;
+		display:block;
+		margin:auto;
+	}
+	.inp1,.inp2{
+		font-size:1.3em;
+		color:#fff;
+		background-color:#3a5aff;
+		line-height:80px;
+		width:80%;
+		border-radius:0.5em;
+		margin-top:30px;
+		cursor:pointer;
+	}
